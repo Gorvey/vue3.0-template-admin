@@ -1,0 +1,815 @@
+repo_name: Gorvey/vue3.0-template-admin
+report_id: bfa948ab702e9726ba56ebc8ba84ca68
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-28T02:13:57+00:00'
+requested_by: GeekQiaQia
+provider: github
+branch: main
+detected_tools_count: 56
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin
+  detection_source: Repo Metadata
+- name: ECharts
+  description: A free, powerful charting and visualization library
+  website_url: https://echarts.apache.org/en/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4230/aSzYQa43_400x400.jpg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: Stylus
+  description: Expressive, robust, feature-rich CSS language built for nodejs
+  website_url: http://stylus-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1172/stylus.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 5.62.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-22 04:02:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/.github/workflows/main.yml
+  detection_source: ".github/workflows/main.yml"
+  last_updated_by: geekqiaqia
+  last_updated_on: 2021-12-29 06:05:25.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: geekqiaqia
+  last_updated_on: 2021-12-29 15:26:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: FullCalendar
+  description: A full-sized drag &amp; drop JavaScript event calendar
+  website_url: https://fullcalendar.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/5979/default_8b58ea1423b69bf123fae8f58e4887b9b4fdb1b4.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2021-12-29 06:46:36.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: jszip
+  description: Create
+  package_url: https://www.npmjs.com/jszip
+  version: 3.6.0
+  license: MIT,GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16628/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+  vulnerabilities:
+  - name: JSZip contains Path Traversal via loadAsync
+    cve_id: CVE-2022-48285
+    cve_url: https://github.com/advisories/GHSA-36fh-84j7-cv5h
+    detected_date: Feb 2
+    severity: high
+    first_patched: 3.8.0
+  - name: jszip Vulnerable to Prototype Pollution
+    cve_id: CVE-2021-23413
+    cve_url: https://github.com/advisories/GHSA-jg8v-48h5-wgxg
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.7.0
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: mockjs
+  description: 生成随机数据 &amp; 拦截 Ajax 请求
+  package_url: https://www.npmjs.com/mockjs
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16769/default_7db4a32a5e03bf4595c23f25ef5a0d1b2fd53479.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+  vulnerabilities:
+  - name: mockjs vulnerable to Prototype Pollution via the Util.extend function
+    cve_id: CVE-2023-26158
+    cve_url: https://github.com/advisories/GHSA-mh8j-9jvh-gjf6
+    detected_date: Dec 18
+    severity: high
+    first_patched:
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 2.6.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 13:33:19.000000000 Z
+  vulnerabilities:
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 2.9.16
+  - name: Vitejs Vite before v2.9.13 vulnerable to directory traversal via crafted
+      URL to victim's service
+    cve_id: CVE-2022-35204
+    cve_url: https://github.com/advisories/GHSA-mv48-hcvh-8jj8
+    detected_date: Nov 23
+    severity: moderate
+    first_patched: 2.9.13
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.17.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+  vulnerabilities:
+  - name: SheetJS Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-22363
+    cve_url: https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+    detected_date: Apr 9
+    severity: high
+    first_patched: 0.20.2
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 12.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 12.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.170
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@types/marked"
+  description: TypeScript definitions for Marked
+  package_url: https://www.npmjs.com/@types/marked
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17650/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.11.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-23 02:33:09.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.22.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: "@vitejs/plugin-legacy"
+  description: Vite's default browser support baseline is [Native ESM]
+  package_url: https://www.npmjs.com/@vitejs/plugin-legacy
+  version: 1.4.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 13:33:19.000000000 Z
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: commitizen
+  description: Git commit, but play nice with conventions
+  package_url: https://www.npmjs.com/commitizen
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16008/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-26 02:18:25.000000000 Z
+- name: cz-conventional-changelog
+  description: Commitizen adapter following the conventional-changelog format
+  package_url: https://www.npmjs.com/cz-conventional-changelog
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15961/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: cz-customizable
+  description: Commitizen customizable adapter following the conventional-changelog
+    format
+  package_url: https://www.npmjs.com/cz-customizable
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18607/default_ef6b2bd981cba62e802af0e5fe9d795e770b797f.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 14.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-06-06 14:39:20.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-06-06 14:39:20.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-23 02:33:09.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-23 02:33:09.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-23 02:33:09.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 6.4.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2021-12-29 06:46:36.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-22 07:03:17.000000000 Z
+- name: path-to-regexp
+  description: Express style path to RegExp utility
+  package_url: https://www.npmjs.com/path-to-regexp
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-22 07:03:17.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-06-29 12:25:03.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: xiyang.bai
+  last_updated_on: 2021-04-25 12:02:56.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Gorvey/vue3.0-template-admin/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: geekqiaqia
+  last_updated_on: 2022-02-21 12:21:58.000000000 Z
